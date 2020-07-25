@@ -1,0 +1,48 @@
+<Atlas>
+<Texture filename="peixes.tex" /><Elements>
+
+<Element name="jellyfish.tex" u1="0.0" u2="0.05" v1="0.5" v2="1" />
+<Element name="jellyfish_cooked.tex" u1="0.05" u2="0.1" v1="0.5" v2="1" />
+<Element name="jellyfish_dead.tex" u1="0.1" u2="0.15" v1="0.5" v2="1" />
+<Element name="jellyjerky.tex" u1="0.15" u2="0.2" v1="0.5" v2="1" />
+<Element name="jellyopop.tex" u1="0.2" u2="0.25" v1="0.5" v2="1" />
+<Element name="fish3.tex" u1="0.25" u2="0.3" v1="0.5" v2="1" />
+<Element name="fish3_cooked.tex" u1="0.3" u2="0.35" v1="0.5" v2="1" />
+<Element name="fish4.tex" u1="0.35" u2="0.40" v1="0.5" v2="1" />
+<Element name="fish4_cooked.tex" u1="0.40" u2="0.45" v1="0.5" v2="1" />
+<Element name="fish5.tex" u1="0.45" u2="0.50" v1="0.5" v2="1" />
+<Element name="fish5_cooked.tex" u1="0.50" u2="0.55" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.55" u2="0.6" v1="0.5" v2="1" />
+<Element name="flup.tex" u1="0.60" u2="0.65" v1="0.5" v2="1" />
+<Element name="frog.tex" u1="0.65" u2="0.70" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.70" u2="0.75" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.75" u2="0.8" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.8" u2="0.85" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.85" u2="0.90" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.90" u2="95" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.95" u2="1" v1="0.5" v2="1" />
+<Element name=".tex" u1="0.95" u2="1" v1="0.5" v2="1" />
+
+<Element name="caviar.tex" u1="0.0" u2="0.05" v1="0" v2="0.5" />
+<Element name="ceviche.tex" u1="0.05" u2="0.1" v1="0" v2="0.5" />
+<Element name="tropicalbouillabaisse.tex" u1="0.1" u2="0.15" v1="0.0" v2="0.5" />
+<Element name="seafoodgumbo.tex" u1="0.15" u2="0.2" v1="0.0" v2="0.5" />
+<Element name="surfnturf.tex" u1="0.2" u2="0.25" v1="0.0" v2="0.5" />
+<Element name="roe.tex" u1="0.25" u2="0.3" v1="0.0" v2="0.5" />
+<Element name="roe_cooked.tex" u1="0.3" u2="0.35" v1="0.0" v2="0.5" />
+<Element name="fish2.tex" u1="0.35" u2="0.4" v1="0.0" v2="0.5" />
+<Element name="fish2_cooked.tex" u1="0.4" u2="0.45" v1="0.0" v2="0.5" />
+<Element name="quagmire_salmon.tex" u1="0.45" u2="0.5" v1="0.0" v2="0.5" />
+<Element name="quagmire_salmon_cooked.tex" u1="0.5" u2="0.55" v1="0.0" v2="0.5" />
+<Element name="fishstew.tex" u1="0.55" u2="0.6" v1="0.0" v2="0.5" />
+<Element name="fishpie.tex" u1="0.6" u2="0.65" v1="0.0" v2="0.5" />
+<Element name="poachedfish.tex" u1="0.65" u2="0.7" v1="0.0" v2="0.5" />
+<Element name="oceanfish.tex" u1="0.70" u2="0.75" v1="0.0" v2="0.5" />
+<Element name="oceanfish_cooked.tex" u1="0.75" u2="0.8" v1="0.0" v2="0.5" />
+<Element name="coi.tex" u1="0.80" u2="0.85" v1="0.0" v2="0.5" />
+<Element name="coi_cooked.tex" u1="0.85" u2="0.9" v1="0.0" v2="0.5" />
+<Element name=".tex" u1="0.90" u2="0.95" v1="0.0" v2="0.5" />
+<Element name=".tex" u1="0.95" u2="1" v1="0.0" v2="0.5" />
+
+</Elements>
+</Atlas>
