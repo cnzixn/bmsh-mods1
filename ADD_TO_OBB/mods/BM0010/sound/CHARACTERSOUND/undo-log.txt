@@ -1,0 +1,2 @@
+21:15:00 ..\..\src\simpleeventcontroller.cpp:606 HV: Set Playback Mode
+21:15:23 ..\..\src\simpleeventcontroller.cpp:526 HT: Reset Build Options for Sounds

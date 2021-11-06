@@ -1,0 +1,52 @@
+Warning: QPainter::begin: Paint device returned engine == 0, type: 1
+Warning: QPainter::setPen: Painter not active
+Warning: QPainter::setBrush: Painter not active
+Warning: QPainter::setRenderHint: Painter must be active to set rendering hints
+Warning: QPainter::setPen: Painter not active
+Debug: "21:15:00 ..\..\src\simpleeventcontroller.cpp:606 HV: Set Playback Mode" 
+Debug: "21:15:23 ..\..\src\simpleeventcontroller.cpp:526 HT: Reset Build Options for Sounds" 
+Debug: 
+Building project 'charlie'...
+Debug: Warning: No template applied
+Debug: Building project C:\Program Files (x86)\Steam\steamapps\common\dont_starve\mods\Charlie\sound\CHARACTERSOUND\sound\charlie.fev...
+Debug: Unique sound defs 3/3
+Debug: Retrieving sound file info...
+Debug: Retrieving reverb info...
+Debug: FEV file written ok
+Debug: Unique Envelope Points: 0 of 0
+Debug: Unique Strings: 160 characters of 160
+Debug: Caching sound file details for ''...
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_dead.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_hurt1.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_hurt2.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_hurt3.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech1.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech2.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech3.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech4.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech5.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech6.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech7.wav
+Debug: ..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech8.wav
+Debug: Building 'charlie.fsb'
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_hurt1.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_hurt2.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_hurt3.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_dead.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech1.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech2.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech3.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech4.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech5.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech6.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech7.wav
+Debug: Encoded C:\Users\Hanno\Desktop\SoundTest\..\..\..\..\program files (x86)\steam\steamapps\common\dont_starve\mods\charlie\sound\charactersound\charlie_speech8.wav
+Debug: Writing FSB...
+Debug: Finished building FSB
+Debug: 
+The following errors and warnings were detected:
+Warning: No template applied
+Debug: 
+Summary of build:
+SUCCESS: C:/Program Files (x86)/Steam/steamapps/common/dont_starve/mods/Charlie/sound/CHARACTERSOUND/sound/charlie.fev
+SUCCESS: charlie.fsb

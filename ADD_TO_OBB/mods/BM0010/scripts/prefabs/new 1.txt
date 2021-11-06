@@ -1,0 +1,26 @@
+
+Charlie has Shadow and normal forms.
+Charlie will turn into shadow, if her sanity falls below 45%, she will become back again, if it rises above 55%.
+
+In Shadow Form:
+1) Charlie gains nightvision!
+2) Charlie gets bonus damage mult depending on day time: 1.4x day, 1.6x dusk and 1.8x during night.
+3) Charlie gets bonus armor (like Wigfrid), she will take 10% less damage during dusk and 20% less at night.
+4) Charlie will suffer from any lights! She will start to burn, if she stays at light! Torch, lantern, campfire, neon-party - anything bright will hurt her!
+5) Items that protect from rain - protect from lights too. Use umbrella, hat, find shelters to escape light!
+6) Charlie will only wear her shadow-form skin in this state.
+
+In girl Form:
+1) Charlie is not afraid of darkness at all.
+2) Charlie will have +1 lvl to magic recipes.
+3) Charlie gets damage mult depending on day time: 0.8x day (!), 1.0x dusk and 1.2x during night.
+4) Charlie will be able to change her outfit.
+
+
+
+
+
+well they've made her so her damage depends on day time, I think we can combine that with our shadow form:
+Shadow form gives 1.4x damage mult during day, 1.6x during dusk and 1.8x during night
+We can also make Charlie take less damage (like wigfrid), like 0 reduction during day / 10% dusk / 20% night.
+While In girl form Charlie will have damage mult like 0.8x day, 1.0x dusk, 1.2x night
